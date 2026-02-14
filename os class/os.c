@@ -1,5 +1,6 @@
+1. 
 #include <stdio.h>
-/*
+
 int main() 
 {
     int bt[20], wt[20], tat[20];
@@ -42,7 +43,8 @@ int main()
 
     return 0;
 }
-*/
+2. For different arrival time
+
 #include <stdio.h>
 
 int main()
@@ -130,3 +132,4 @@ int main()
 
     return 0;
 }
+
